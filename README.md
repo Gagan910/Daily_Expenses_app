@@ -20,3 +20,6 @@ This project is a backend for a Daily Expenses Sharing Application that allows u
    ```bash
    git clone https://github.com/yourusername/daily_expenses_app.git
    cd daily_expenses_app
+### Set up a virtual environment
+python3 -m venv venv
+source venv/bin/activate
