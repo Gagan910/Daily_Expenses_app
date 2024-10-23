@@ -21,11 +21,11 @@ This project is a backend for a Daily Expenses Sharing Application that allows u
    git clone https://github.com/yourusername/daily_expenses_app.git
    cd daily_expenses_app
 ### Set up a virtual environment
-- python3 -m venv venv
-- source venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 
 ### Run the Flask application
-- python app.py
+python app.py
 
 ### API Endpoints
 - POST /users: Create a new user
